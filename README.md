@@ -1,6 +1,6 @@
 # hermes
 
-Welcome to Hermes! Hermes is a ride-sharing application that connects passengers with nearby drivers, providing a convenient and efficient way to travel around the city. Whether you're commuting to work, heading to the airport, or exploring a new place, Hermes is here to make your journey smooth and hassle-free.
+Welcome to Hermes! Hermes is a ride-sharing application that connects passengers with nearby drivers, providing a convenient and efficient way to travel around the city.
 
 ## Getting Started
 
