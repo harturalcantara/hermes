@@ -2,6 +2,8 @@
 
 Welcome to Hermes! Hermes is a ride-sharing application that connects passengers with nearby drivers, providing a convenient and efficient way to travel around the city.
 
+## Screens
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
