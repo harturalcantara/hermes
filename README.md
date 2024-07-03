@@ -1,18 +1,39 @@
-# hermes
+# Projeto Hermes
 
-Welcome to Hermes! Hermes is a ride-sharing application that connects passengers with nearby drivers, providing a convenient and efficient way to travel around the city.
+Hermes é uma aplicação de chat que permite aos usuários enviar e receber mensagens de texto, fotos, vídeos e arquivos. O projeto é construído com foco em desempenho, segurança e facilidade de uso, oferecendo uma plataforma de comunicação robusta para usuários individuais e grupos.
 
-## Screens
+## Funcionalidades
 
-## Getting Started
+- **Mensagens de Texto**: Envio e recebimento de mensagens de texto em tempo real.
+- **Mensagens de Mídia**: Compartilhamento de fotos, vídeos e arquivos.
+- **Chats em Grupo**: Criação e participação em grupos de chat.
+- **Segurança**: Criptografia de ponta a ponta para proteger as comunicações.
+- **Notificações**: Notificações em tempo real para novas mensagens.
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Frontend**: React
+- **Backend**: Node.js, Express
+- **Banco de Dados**: MongoDB
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Node.js v14.0 ou superior
+
+## Instalação
+
+1. **Clone o repositório:**
+   ```sh
+   git clone https://github.com/seu-usuario/projeto-hermes.git
+   cd projeto-hermes
+   ```
+
+2. **Instale as dependências do backend:**
+   ```sh
+   cd backend
+   npm install
+   ```
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
