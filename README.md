@@ -1,6 +1,10 @@
 # Projeto Hermes
 
+<<<<<<< HEAD
 Bem-vindo ao Projeto Hermes! Este README fornece uma visão geral do projeto, instruções para instalação, uso, e contribuição. Hermes é uma aplicação de chat de comunicação semelhante ao WhatsApp, projetada para fornecer uma experiência de mensagens rápida, segura e intuitiva.
+=======
+Welcome to Hermes! Hermes is a ride-sharing application that connects passengers with nearby drivers, providing a convenient and efficient way to travel around the city. Whether you're commuting to work, heading to the airport, or exploring a new place, Hermes is here to make your journey smooth and hassle-free.
+>>>>>>> 19ff82324ee1e911f2eb181939cc2c67e1b9829d
 
 ## Visão Geral
 
