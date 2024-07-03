@@ -1,7 +1,5 @@
 # Projeto Hermes
 
-## Visão Geral
-
 Hermes é uma aplicação de chat que permite aos usuários enviar e receber mensagens de texto, fotos, vídeos e arquivos. O projeto é construído com foco em desempenho, segurança e facilidade de uso, oferecendo uma plataforma de comunicação robusta para usuários individuais e grupos.
 
 ## Funcionalidades
