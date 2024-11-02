@@ -1,39 +1,30 @@
-# Projeto Hermes
+## Hermes Project
 
-Hermes é uma aplicação de chat que permite aos usuários enviar e receber mensagens de texto, fotos, vídeos e arquivos. O projeto é construído com foco em desempenho, segurança e facilidade de uso, oferecendo uma plataforma de comunicação robusta para usuários individuais e grupos.
+Hermes is a chat application that allows users to send and receive text messages, photos, videos, and files. The project is built with a focus on performance, security, and ease of use, offering a robust communication platform for individual users and groups.
 
-## Funcionalidades
+## Features
 
-- **Mensagens de Texto**: Envio e recebimento de mensagens de texto em tempo real.
-- **Mensagens de Mídia**: Compartilhamento de fotos, vídeos e arquivos.
-- **Chats em Grupo**: Criação e participação em grupos de chat.
-- **Segurança**: Criptografia de ponta a ponta para proteger as comunicações.
-- **Notificações**: Notificações em tempo real para novas mensagens.
+- **Text Messages**: Send and receive real-time text messages.
+- **Media Messages**: Share photos, videos, and files.
+- **Group Chats**: Create and participate in group chats.
+- **Security**: End-to-end encryption to protect communications.
+- **Notifications**: Real-time notifications for new messages.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - **Frontend**: React
 - **Backend**: Node.js, Express
-- **Banco de Dados**: MongoDB
+- **Database**: MongoDB
 
-## Requisitos
+## Requirements
 
-- Node.js v14.0 ou superior
+- Node.js v14.0 or higher
 
-## Instalação
+## License
 
-1. **Clone o repositório:**
-   ```sh
-   git clone https://github.com/seu-usuario/projeto-hermes.git
-   cd projeto-hermes
-   ```
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-2. **Instale as dependências do backend:**
-   ```sh
-   cd backend
-   npm install
-   ```
+* For more specific terms or context-dependent translations, consider using a specialized technical translation tool or consulting with a human translator.
+* If you have any specific questions about the translation or the project itself, feel free to ask.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+**Would you like me to modify the English version further, or do you have any other requests?**
